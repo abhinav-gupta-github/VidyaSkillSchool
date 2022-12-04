@@ -1,2 +1,2 @@
-# VidyaSkillSchool
+# VidyaSkillsSchool
 Assignment-1
